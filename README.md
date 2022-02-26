@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Mchl-krpch
+###### I study at the faculty of innovative technologies
