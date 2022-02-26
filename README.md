@@ -3,7 +3,6 @@
 
 
 <!--tags-->
-`Ded32` `Mipt` `First course` `System Programming`
 
 <!--#define meow-code.meow-->
 ```C
@@ -12,5 +11,5 @@
 ```
 
 <!--comment-->
-## @User profile
+## `Ded32` `Mipt` `First course` `System Programming` @User profile
 ###### ➖ I adore [photography](), [design]() and [programming](). I love spending evenings with friends. I study `C` `C++` `ASM`  at university. Time goes by and I'm only getting younger
