@@ -3,7 +3,7 @@
 
 
 <!--tags-->
-`Ded32` `Mipt` `First course` `System Programming` ![cat](https://psv4.userapi.com/c240331/u354403795/docs/d2/fa92d905aa58/git-cat.png?extra=0Q0lwx7lPjy4JygIdyyeHyXySraXChTmlZtv86sSLZG3HNtM9dXJ8Dc2kvLm4LTBSH3d4-dQVBb7VzUJGkzQNGCBDXCn4ZNWL2Ofu8ZhnJHGUcKvIhAOvokZzSsuhz9ADri1g4NtAOPX7O_zJ5c6ZO9g)
+`Ded32` `Mipt` `First course` `System Programming`
 
 <!--#define meow-code.meow-->
 ```C
