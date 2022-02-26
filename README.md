@@ -2,5 +2,5 @@
  
 
  
-### [Krapchatov Michael](https://vk.com/isskroff)
+### 🌐[Krapchatov Michael](https://vk.com/isskroff)
 ###### <p align="left" dir="auto">😍 I study `C` `C++` `ASM`  at university&nbsp; 💬 Time goes by and I'm only getting younger<p>
