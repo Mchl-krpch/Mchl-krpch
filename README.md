@@ -1,3 +1,2 @@
-###### <small># I study at the faculty of `innovative technologies`</small>
-#### Time goes by and I'm only getting younger</br>I study [c]()  [c++]()  [asm]()  at university
+###### <small># I study at the faculty of `innovative technologies`</small></br> #### Time goes by and I'm only getting younger</br>I study [c]()  [c++]()  [asm]()  at university
 ###### <sub>I study at the faculty of `innovative technologies`<sub>
