@@ -4,7 +4,7 @@
 #ifndef @exam /*no-o-o*/ #define freetime programming; while (!$get.dark & !$friends->are.calling) {~write-programs;}
 #include <ultra-boost meow.pack> /* +100 to the beauty of the code.*/
 ```
-`ded32` `mipt` `diht` `system Programming` 
+`Ded32` `Mipt` `First course` `System Programming` 
   
 ## @User profile
 ###### ➖ I adore [photography](), [design]() and [programming](), I love spending evenings with friends. I study `C` `C++` `ASM`  at university Time goes by and I'm only getting younger
