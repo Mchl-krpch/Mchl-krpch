@@ -11,5 +11,5 @@
 ```
 
 <!--comment-->
-## <samp>`Ded32` `Mipt` `First course` `System Programming`</samp> @User profile
+## <sub>`Ded32` `Mipt` `First course` `System Programming`</sub> @User profile
 ###### ➖ I adore [photography](), [design]() and [programming](). I love spending evenings with friends. I study `C` `C++` `ASM`  at university. Time goes by and I'm only getting younger
