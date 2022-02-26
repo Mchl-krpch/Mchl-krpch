@@ -2,5 +2,5 @@
  
 
  
-###  ![octocat](https://user-images.githubusercontent.com/89719048/155853927-1cbbb197-c8f7-4dcd-9245-091c4fdc8e17.png)[Krapchatov Michael](https://vk.com/isskroff)
+### [Krapchatov Michael](https://vk.com/isskroff)
 ###### <p align="left" dir="auto">😍 I study `C` `C++` `ASM`  at university&nbsp; 💬 Time goes by and I'm only getting younger<p>
