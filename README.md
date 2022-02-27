@@ -1,5 +1,5 @@
 <!--comment-->
-## <sub>@User profile <samp>`Ded32` `Mipt` ` First course ` ` System Programming `</samp></sub>
+## <sub>@User profile <samp>`@Ded32` `#Mipt` `1First course` `~System Programming`</samp></sub>
 
 <!--tags-->
 
